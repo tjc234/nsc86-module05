@@ -3,5 +3,5 @@ To contribute to this project, please add texture functionality or comment ascii
 
 ## Contributors
 Nicholas Carmona</br>
-(Name Goes Here)</br>
+Tyler Chapp</br>
 (Name Goes Here)</br>
